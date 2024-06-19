@@ -29,4 +29,3 @@ return t.id + "." + e.id + "." + (i.stack || i.type);
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-# NowChartJS
