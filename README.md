@@ -55,9 +55,9 @@ Technically, NowChartJS can also be used for libraries other than Chart.js to co
 
 ## Credits
 
-[Chart.js](https://github.com/chartjs/Chart.js)
-[terser](https://www.npmjs.com/package/terser)
-[readline-sync](https://www.npmjs.com/package/readline-sync)
+-   [Chart.js](https://github.com/chartjs/Chart.js)
+-   [terser](https://www.npmjs.com/package/terser)
+-   [readline-sync](https://www.npmjs.com/package/readline-sync)
 
 ## License
 
