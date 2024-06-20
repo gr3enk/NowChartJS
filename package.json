@@ -1,0 +1,18 @@
+{
+    "name": "nowchartjs",
+    "version": "1.0.0",
+    "description": "Convert Libraries for Rhino Compiler Compatibility",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "build": "node src/index.js",
+        "setup": "node src/setup.js"
+    },
+    "author": "gr3enk",
+    "license": "MIT",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "readline-sync": "^1.4.10",
+        "terser": "^5.31.1"
+    }
+}
