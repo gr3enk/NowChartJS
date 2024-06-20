@@ -35,7 +35,7 @@ In addition, a changelog file is created in the output directory, which contains
 
 ## Explanation with Chart.js
 
-The following example has been changed in the NowChartJS library compared to the original Chart.js library
+The following example has been changed in the NowChartJS library compared to the original Chart.js library:
 
 ```javascript
 // Chart.js v4.4.2
@@ -51,7 +51,7 @@ return t.id + "." + e.id + "." + (i.stack || i.type);
 
 ## Other use cases
 
-Technically, NowChartJS can also be used for libraries other than Chart.js to convert template literals for Rhino compatibilty
+Technically, NowChartJS can also be used for libraries other than Chart.js to convert template literals for Rhino compatibilty.
 
 ## Credits
 
